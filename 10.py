@@ -1,6 +1,6 @@
-s=int(input())
-r=0
-while(s>0):
-  r+=1
-  s=s//10
-print(r)
+g=int(input())
+h=0
+while(g>0):
+  h+=1
+  g=g//10
+print(h)
