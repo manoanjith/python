@@ -1,3 +1,3 @@
-n=int(input())
+g=int(input())
 for i in range(1,6):
-	print(i*n,end=' ')
+	print(i*g,end=' ')
