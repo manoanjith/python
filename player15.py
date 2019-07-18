@@ -1,7 +1,7 @@
-g=input()
-d=0;
-for l in g:
-  if(g.count(l)>d):
-    d=g.count(l)
-    g=l
-print (g)   
+m7=input()
+n7=0
+for i in m7:
+	if m7.count(i)>n7:
+		n7=m7.count(i)
+		i7=i
+print(i7)	
