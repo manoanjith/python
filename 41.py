@@ -1,6 +1,4 @@
-g,h = input().split(maxsplit=1)
-o=int(h)
-s=1
-while n<=o:
-    print(g)
-   s+=1
+s,e=input().split()
+e=int(e)
+for i in range(e):
+	print(s)
